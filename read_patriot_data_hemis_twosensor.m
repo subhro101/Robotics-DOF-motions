@@ -2,8 +2,8 @@ function [A0_all_trackable, pos_all_trackable, nframe, ntrackable, trackableID] 
     = read_patriot_data_hemis_twosensor(filename)
 % derived from read_patriot_data_hemis()
 % read patriot data file with up to two sensors.
-% the file may have one OR two sensor data. This code should be able to 
-% process both.
+% the file may have one OR two sensor data. This code  
+% processes both.
 %
 % 07/11/2016
 
